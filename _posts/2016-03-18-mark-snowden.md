@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-18T21:15:03.806Z'
-dateModified: '2016-03-18T21:12:24.399Z'
+datePublished: '2016-03-18T21:32:05.069Z'
+dateModified: '2016-03-18T21:28:02.322Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-18-mark-snowden.md
