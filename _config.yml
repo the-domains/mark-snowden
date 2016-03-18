@@ -1,29 +1,18 @@
-name: Mark Snowden
-favicon: null
-layout_spectrum: 0.98623
-typography_spectrum: 0.00010737590491771698
-title: Photographer
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#A8C0D0'
+    - '#406018'
+    - '#708898'
+    - '#1070C0'
+    - '#000000'
   brandStrength: 0.125
-  lightness: 0.2506768642924726
-  saturation: 0.6277546160854399
+  lightness: 0.250676
   rhythmicContrast: 0.5
+  saturation: 0.627754
+cta: {}
+layout_spectrum: 0.792792
+name: buzzard
+opengraph: {}
 purpose: []
+typography_spectrum: 0.000107
