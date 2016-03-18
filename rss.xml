@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mark Snowden]]></title>
         <description><![CDATA[Mark Snowden]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mark-snowden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 20:40:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 20:56:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mark-snowden/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mark Snowden]]></title>
-            <description><![CDATA[<article><h1>Mark Snowden</h1><p>Castleshane Waterfall</p></article>]]></description>
-            <link>undefinedmark-snowden/index.html</link>
+            <description><![CDATA[<article><h1>Mark Snowden</h1><p>Chaffinch</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76c9d63700dd953d73fba50ee224d76fcb16f257.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mark-snowden/mark-snowden/index.html</link>
             <guid isPermaLink="false">69162d60-6b3c-4a8d-ab6b-2a219b4b9508</guid>
-            <pubDate>Fri, 18 Mar 2016 20:40:36 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2016 20:56:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
