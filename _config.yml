@@ -1,6 +1,6 @@
 name: Mark Snowden
 favicon: null
-layout_spectrum: 0.74278
+layout_spectrum: 0.88912
 typography_spectrum: 0.99549
 title: Mark Snowden
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.25
   lightness: 0.625
   saturation: 0.75
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
 purpose: []
